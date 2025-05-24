@@ -1,0 +1,150 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_05_U_244",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/567d0824379283b93445",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Engineer"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@id": "/rarities/UNIQUE",
+    "@type": "Rarity",
+    "reference": "UNIQUE",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+    "name": "Unique"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/en_US/af9007cc48882ac918f015fa02a73e07.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_09804c2b90b8deddcd36f9ef098d4604",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_cbbc51dbf0723f1784b79d876f13d360",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_fadfa6f4983452eecbb24b1acd0f59df"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_05_U_244",
+  "isSuspended": false,
+  "reference": "ALT_CORE_B_AX_05_U_244",
+  "id": "05505227JZ9X895CYCDE2A3CE7",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/fr_FR/8ce5a9f50036c5a9411959a1308dd7b8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/es_ES/d9e69ba40f822386c12038769c6c2edc.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/it_IT/86989a83e54b72b3cf96f89779043350.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/de_DE/31c4bf0d9b4ea76b8ba966591bc2a8c5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/en_US/af9007cc48882ac918f015fa02a73e07.jpg"
+  },
+  "name": "Foundry Engineer",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MOUNTAIN_POWER": "1",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{R} []The next Permanent you play this Afternoon costs {1} less.  {R} If you control a token: I gain 1 boost."
+  },
+  "translations": {
+    "fr-fr": {
+      "@context": "/contexts/Card",
+      "@id": "/cards/ALT_CORE_B_AX_05_U_244",
+      "@type": "Card",
+      "loreEntries": [],
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Personnage"
+      },
+      "cardSubTypes": [
+        {
+          "@type": "CardSubType",
+          "@id": "/.well-known/genid/d602eb07b620de327909",
+          "reference": "ENGINEER",
+          "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+          "name": "Ingénieur"
+        }
+      ],
+      "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Au-delà des portes"
+      },
+      "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+      },
+      "cardRulings": [],
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/fr_FR/8ce5a9f50036c5a9411959a1308dd7b8.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_09804c2b90b8deddcd36f9ef098d4604",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_cbbc51dbf0723f1784b79d876f13d360",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_fadfa6f4983452eecbb24b1acd0f59df"
+        ]
+      },
+      "lowerPrice": 0,
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_05_U_244",
+      "isSuspended": false,
+      "reference": "ALT_CORE_B_AX_05_U_244",
+      "id": "05505227JZ9X895CYCDE2A3CE7",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/fr_FR/8ce5a9f50036c5a9411959a1308dd7b8.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/es_ES/d9e69ba40f822386c12038769c6c2edc.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/it_IT/86989a83e54b72b3cf96f89779043350.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/de_DE/31c4bf0d9b4ea76b8ba966591bc2a8c5.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/en_US/af9007cc48882ac918f015fa02a73e07.jpg"
+      },
+      "name": "Ingénieure de la Fonderie",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1",
+        "MAIN_EFFECT": "{R} []Le prochain Permanent que vous jouez cet Après-midi coûte {1} de moins.  {R} Si vous contrôlez un jeton : Je gagne 1 boost."
+      }
+    }
+  }
+}

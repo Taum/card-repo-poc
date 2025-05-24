@@ -1,0 +1,150 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_04_U_1973",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/89e721660973e60aa883",
+      "reference": "ELEMENTAL",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "name": "Elemental"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@id": "/rarities/UNIQUE",
+    "@type": "Rarity",
+    "reference": "UNIQUE",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+    "name": "Unique"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/en_US/1843878b4acfc37a4355bfc075eeafc6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_C_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_R_WEB.jpg",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_U_WEB.jpg"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_04_U_1973",
+  "isSuspended": false,
+  "reference": "ALT_CORE_B_AX_04_U_1973",
+  "id": "5GE4DSR59H94K9JKY3X3SQN7VM",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/fr_FR/e6cc12433e44b5e27da2fce247da5ade.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/es_ES/e983cd1919f82a38fe9b8460589b7d19.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/it_IT/cb490554a57809caf0b56f0e3e26dcf7.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/de_DE/9c562ea178fb129b1160bf5adb1e3ed3.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/en_US/1843878b4acfc37a4355bfc075eeafc6.jpg"
+  },
+  "name": "Kelon Elemental",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "3",
+    "MOUNTAIN_POWER": "1",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{R} []You may put a card from your hand in Reserve.  {R} []You may activate the {j} abilities of target Permanent you control."
+  },
+  "translations": {
+    "fr-fr": {
+      "@context": "/contexts/Card",
+      "@id": "/cards/ALT_CORE_B_AX_04_U_1973",
+      "@type": "Card",
+      "loreEntries": [],
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Personnage"
+      },
+      "cardSubTypes": [
+        {
+          "@type": "CardSubType",
+          "@id": "/.well-known/genid/b5825e2d52b0195d082c",
+          "reference": "ELEMENTAL",
+          "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+          "name": "Élémentaire"
+        }
+      ],
+      "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Au-delà des portes"
+      },
+      "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+      },
+      "cardRulings": [],
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/fr_FR/e6cc12433e44b5e27da2fce247da5ade.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_C_WEB.jpg",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_R_WEB.jpg",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_U_WEB.jpg"
+        ]
+      },
+      "lowerPrice": 0,
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_04_U_1973",
+      "isSuspended": false,
+      "reference": "ALT_CORE_B_AX_04_U_1973",
+      "id": "5GE4DSR59H94K9JKY3X3SQN7VM",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/fr_FR/e6cc12433e44b5e27da2fce247da5ade.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/es_ES/e983cd1919f82a38fe9b8460589b7d19.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/it_IT/cb490554a57809caf0b56f0e3e26dcf7.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/de_DE/9c562ea178fb129b1160bf5adb1e3ed3.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/en_US/1843878b4acfc37a4355bfc075eeafc6.jpg"
+      },
+      "name": "Élémentaire de Kélon",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2",
+        "MAIN_EFFECT": "{R} []Vous pouvez mettre une carte de votre main en Réserve.  {R} []Vous pouvez activer les capacités {j} d'un Permanent ciblé que vous contrôlez."
+      }
+    }
+  }
+}

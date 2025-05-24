@@ -1,0 +1,150 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_05_U_1663",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4de6636aa0712556a070",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Engineer"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@id": "/rarities/UNIQUE",
+    "@type": "Rarity",
+    "reference": "UNIQUE",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+    "name": "Unique"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/en_US/e20f5817bf3fc1a9198813919f4df69a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_09804c2b90b8deddcd36f9ef098d4604",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_cbbc51dbf0723f1784b79d876f13d360",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_fadfa6f4983452eecbb24b1acd0f59df"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_05_U_1663",
+  "isSuspended": false,
+  "reference": "ALT_CORE_B_AX_05_U_1663",
+  "id": "5GNW4HSN0V9FDVHPHH3R279MHG",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/fr_FR/82c1a8033260e1202edcb167f2cd6b39.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/es_ES/b3163d4f4f78de82b3a8325850f06a4c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/it_IT/b31f4662c8a3d56002529a00832b6001.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/de_DE/c8bdb133f1a68259058bf07235b37c0e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/en_US/e20f5817bf3fc1a9198813919f4df69a.jpg"
+  },
+  "name": "Foundry Engineer",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "2",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{R} []The next Permanent you play this Afternoon costs {1} less.  When you play a Permanent — []You may have target Character other than me lose [[Fleeting]]."
+  },
+  "translations": {
+    "fr-fr": {
+      "@context": "/contexts/Card",
+      "@id": "/cards/ALT_CORE_B_AX_05_U_1663",
+      "@type": "Card",
+      "loreEntries": [],
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Personnage"
+      },
+      "cardSubTypes": [
+        {
+          "@type": "CardSubType",
+          "@id": "/.well-known/genid/b3ae794654b8ae1f9973",
+          "reference": "ENGINEER",
+          "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+          "name": "Ingénieur"
+        }
+      ],
+      "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Au-delà des portes"
+      },
+      "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+      },
+      "cardRulings": [],
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/fr_FR/82c1a8033260e1202edcb167f2cd6b39.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_09804c2b90b8deddcd36f9ef098d4604",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_cbbc51dbf0723f1784b79d876f13d360",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_fadfa6f4983452eecbb24b1acd0f59df"
+        ]
+      },
+      "lowerPrice": 0,
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_05_U_1663",
+      "isSuspended": false,
+      "reference": "ALT_CORE_B_AX_05_U_1663",
+      "id": "5GNW4HSN0V9FDVHPHH3R279MHG",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/fr_FR/82c1a8033260e1202edcb167f2cd6b39.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/es_ES/b3163d4f4f78de82b3a8325850f06a4c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/it_IT/b31f4662c8a3d56002529a00832b6001.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/de_DE/c8bdb133f1a68259058bf07235b37c0e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/en_US/e20f5817bf3fc1a9198813919f4df69a.jpg"
+      },
+      "name": "Ingénieure de la Fonderie",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "1",
+        "MAIN_EFFECT": "{R} []Le prochain Permanent que vous jouez cet Après-midi coûte {1} de moins.  Lorsque vous jouez un Permanent — []Vous pouvez faire perdre [[Fugace]] à un Personnage ciblé autre que moi."
+      }
+    }
+  }
+}

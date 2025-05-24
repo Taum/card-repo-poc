@@ -1,0 +1,152 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_05_U_1496",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a58e6a1047688ac5aedb",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Engineer"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@id": "/rarities/UNIQUE",
+    "@type": "Rarity",
+    "reference": "UNIQUE",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+    "name": "Unique"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/en_US/aab99e807afe4d1a3fb16d604bbc48c9.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_09804c2b90b8deddcd36f9ef098d4604",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_cbbc51dbf0723f1784b79d876f13d360",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_fadfa6f4983452eecbb24b1acd0f59df"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_05_U_1496",
+  "isSuspended": false,
+  "reference": "ALT_CORE_B_AX_05_U_1496",
+  "id": "0XZS38RYDY9MMTHEJT684KN8GY",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/fr_FR/9c58bfed18f98498bd5f9cec49260bca.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/es_ES/b2081ecf29dcd3526d65ce0088437941.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/it_IT/93e9f961531fa760cd2620b85d55cc94.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/de_DE/9e1d15d25da3c1b42b92c7e6b38c21ff.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/en_US/aab99e807afe4d1a3fb16d604bbc48c9.jpg"
+  },
+  "name": "Foundry Engineer",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "2",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{R} []The next Permanent you play this Afternoon costs {1} less.",
+    "ECHO_EFFECT": "{D} : []The next Character you play this turn gains 1 boost."
+  },
+  "translations": {
+    "fr-fr": {
+      "@context": "/contexts/Card",
+      "@id": "/cards/ALT_CORE_B_AX_05_U_1496",
+      "@type": "Card",
+      "loreEntries": [],
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Personnage"
+      },
+      "cardSubTypes": [
+        {
+          "@type": "CardSubType",
+          "@id": "/.well-known/genid/3edf2c7160dc49808f88",
+          "reference": "ENGINEER",
+          "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+          "name": "Ingénieur"
+        }
+      ],
+      "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Au-delà des portes"
+      },
+      "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+      },
+      "cardRulings": [],
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/fr_FR/9c58bfed18f98498bd5f9cec49260bca.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_09804c2b90b8deddcd36f9ef098d4604",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_cbbc51dbf0723f1784b79d876f13d360",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_fadfa6f4983452eecbb24b1acd0f59df"
+        ]
+      },
+      "lowerPrice": 0,
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_05_U_1496",
+      "isSuspended": false,
+      "reference": "ALT_CORE_B_AX_05_U_1496",
+      "id": "0XZS38RYDY9MMTHEJT684KN8GY",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/fr_FR/9c58bfed18f98498bd5f9cec49260bca.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/es_ES/b2081ecf29dcd3526d65ce0088437941.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/it_IT/93e9f961531fa760cd2620b85d55cc94.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/de_DE/9e1d15d25da3c1b42b92c7e6b38c21ff.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/en_US/aab99e807afe4d1a3fb16d604bbc48c9.jpg"
+      },
+      "name": "Ingénieure de la Fonderie",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1",
+        "MAIN_EFFECT": "{R} []Le prochain Permanent que vous jouez cet Après-midi coûte {1} de moins.",
+        "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez ce tour gagne 1 boost."
+      }
+    }
+  }
+}

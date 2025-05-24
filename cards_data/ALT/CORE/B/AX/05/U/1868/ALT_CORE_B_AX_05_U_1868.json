@@ -1,0 +1,150 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CORE_B_AX_05_U_1868",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f9a2b221b243033f7810",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Engineer"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CORE",
+    "@type": "CardSet",
+    "id": "01HKAFJN3HG3TWKYV0E014K01G",
+    "reference": "CORE",
+    "name": "Beyond the Gates"
+  },
+  "rarity": {
+    "@id": "/rarities/UNIQUE",
+    "@type": "Rarity",
+    "reference": "UNIQUE",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+    "name": "Unique"
+  },
+  "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/en_US/14dee4709bee2cb54367d9031ebdae24.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_09804c2b90b8deddcd36f9ef098d4604",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_cbbc51dbf0723f1784b79d876f13d360",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_fadfa6f4983452eecbb24b1acd0f59df"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_05_U_1868",
+  "isSuspended": false,
+  "reference": "ALT_CORE_B_AX_05_U_1868",
+  "id": "16SBTJXXXE8CBSR03NMJ7D91RF",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/fr_FR/1d7dd633563640a1560af84af0512681.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/es_ES/41d67f8dfd25f37666cff8403f7da939.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/it_IT/34571e937b4370092de47d5216d21b4e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/de_DE/864baae0d2bf7e884d1e342b5c3a5841.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/en_US/14dee4709bee2cb54367d9031ebdae24.jpg"
+  },
+  "name": "Foundry Engineer",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "1",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{R} []The next Permanent you play this Afternoon costs {1} less.  At Dusk — You may put a card from your hand in Reserve. If it's a Permanent: You may return a card other than me from your Reserve to your hand."
+  },
+  "translations": {
+    "fr-fr": {
+      "@context": "/contexts/Card",
+      "@id": "/cards/ALT_CORE_B_AX_05_U_1868",
+      "@type": "Card",
+      "loreEntries": [],
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Personnage"
+      },
+      "cardSubTypes": [
+        {
+          "@type": "CardSubType",
+          "@id": "/.well-known/genid/a706fabe794523a3f47a",
+          "reference": "ENGINEER",
+          "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+          "name": "Ingénieur"
+        }
+      ],
+      "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Au-delà des portes"
+      },
+      "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+      },
+      "cardRulings": [],
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/fr_FR/1d7dd633563640a1560af84af0512681.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_09804c2b90b8deddcd36f9ef098d4604",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_cbbc51dbf0723f1784b79d876f13d360",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/WEB_fadfa6f4983452eecbb24b1acd0f59df"
+        ]
+      },
+      "lowerPrice": 0,
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_05_U_1868",
+      "isSuspended": false,
+      "reference": "ALT_CORE_B_AX_05_U_1868",
+      "id": "16SBTJXXXE8CBSR03NMJ7D91RF",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/fr_FR/1d7dd633563640a1560af84af0512681.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/es_ES/41d67f8dfd25f37666cff8403f7da939.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/it_IT/34571e937b4370092de47d5216d21b4e.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/de_DE/864baae0d2bf7e884d1e342b5c3a5841.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/UNIQUE/JPG/en_US/14dee4709bee2cb54367d9031ebdae24.jpg"
+      },
+      "name": "Ingénieure de la Fonderie",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1",
+        "MAIN_EFFECT": "{R} []Le prochain Permanent que vous jouez cet Après-midi coûte {1} de moins.  Au Crépuscule — Vous pouvez mettre une carte de votre main en Réserve. Si c'est un Permanent : Vous pouvez renvoyer dans votre main une carte de votre Réserve autre que moi."
+      }
+    }
+  }
+}
